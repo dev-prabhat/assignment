@@ -1,0 +1,40 @@
+.about-us {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 10%;
+  justify-content: space-between;
+}
+h4 {
+  color: white;
+}
+p {
+  color: gray;
+}
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}

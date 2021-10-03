@@ -1,0 +1,5 @@
+.test-section {
+  margin: 25px 10%;
+  display: flex;
+  flex-direction: row;
+}
