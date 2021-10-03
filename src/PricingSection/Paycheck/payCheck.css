@@ -1,0 +1,47 @@
+.pay-check {
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  border-radius: 5px;
+}
+.discount {
+  padding: 0px 10px;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  box-shadow: 1px 5px 8px #888888;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: lightgrey;
+}
+.special {
+  color: black;
+}
+.Flex {
+  display: flex;
+  padding: 0px 10px;
+  justify-content: space-between;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: gray;
+  box-shadow: 1px 5px 8px #888888;
+  margin: 10px;
+}
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 50%;
+}
+.flex-Container {
+  display: flex;
+  justify-content: space-around;
+}
+.btn {
+  background-color: green;
+  border-style: solid;
+  border-radius: 5px;
+  color: white;
+  border-color: green;
+}

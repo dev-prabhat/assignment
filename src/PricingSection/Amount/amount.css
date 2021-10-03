@@ -1,0 +1,19 @@
+.amount {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: green;
+  border-width: 2px;
+  margin: 0 5%;
+}
+.p {
+  padding: 90px 10px 0px 0px;
+}
+.p1 {
+  padding-top: 50px;
+}
+.p2 {
+  padding: 1px;
+}

@@ -5,6 +5,7 @@ import Description from "./Description/Description-component";
 import Footer from "./Footer/Footer-component";
 
 import "./styles.css";
+import PricingSection from "./PricingSection/PricingSection-component";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <QuizSection />
       <MockTestSection />
       <Description />
+      <PricingSection />
       <Footer />
     </div>
   );
